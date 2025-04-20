@@ -1,0 +1,9 @@
+# Exclude temporary files and build artifacts
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Ignore OS-specific files (e.g., macOS)
+Thumbs.db
